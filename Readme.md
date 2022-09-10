@@ -1,4 +1,4 @@
-__**Pokemon GO**__ __**: __**Assets**__
+__**Pokemon GO**__ __**:**__ __**Assets**__
 
 **This Repository is of all thinks found and mined in the Assets Files and Folder, including Sprites, Sounds, Promo and More. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK.**
 
