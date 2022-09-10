@@ -15,10 +15,10 @@ All sound effects and music from the assets files that i found and mined are loc
 All images from websites and the assets files i found and mined are located here. They are organized by category such as Adventure Sync, AR+ and Buddys, Avatar Items, Battle League, Friends and Gifts, Gym and Raids, Medals, Niantic, Nintendo, Partners, Play At Home. Pokemon, Pokestops, Professor Willow, Research, Shop and Items, Social Media, TCG Pokemon Go Cards, Team GO Rocket, Trading, Types, Widget, Events, Others and More.
 
 __**Others**__ **:** 
-All others files that i found and mined are in the File Folder located in the others folder. They are organized by category such as .json, .pdf, and .ttf file type.
+All others files that i found and mined are in the File Folder located in the others folder. They are organized by category such as .json, .pdf, and .ttf file type. The Youtubers Folder Images are custom made but are still and belongs to the Youtubers. The Custom Images Folder has the creator/designer, named on the folder and belongs to them.
 
 
-## **Disclaimer**
+## __**Disclaimer**__
 
 **This repo is for educational use only.**
 
@@ -27,3 +27,6 @@ All others files that i found and mined are in the File Folder located in the ot
 **Retro John 86 did create and did not create or modify images or sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
 **Please respect the original source material.**
+
+
+__**Thank You and Enjoy**__
