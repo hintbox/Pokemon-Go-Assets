@@ -28,5 +28,8 @@ All others files that i found and mined are in the File Folder located in the ot
 
 **Please respect the original source material.**
 
+**Supported from Pokemon Sources e.g. Pokeminers, ZeChrales
+, Pokémon GO Wiki, Pokémon Wiki and Others**
+
 
 __**Thank You and Enjoy**__
